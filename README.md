@@ -1,5 +1,5 @@
-# 个人前端环境配置
+# My Front End Env
 
 ## Prettier
 
-`.prettierrc` 为配置
+- `.prettierrc`
