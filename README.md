@@ -3,3 +3,7 @@
 ## Prettier
 
 - `.prettierrc`
+
+## Git
+
+- `.gitignore`
