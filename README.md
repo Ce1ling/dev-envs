@@ -1,9 +1,13 @@
-# My Front End Env
+# My Develop Envs
+
+## Git
+
+- `.gitignore`
 
 ## Prettier
 
 - `.prettierrc`
 
-## Git
+## Bash
 
-- `.gitignore`
+- `.zshrc`

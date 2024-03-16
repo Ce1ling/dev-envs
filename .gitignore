@@ -36,8 +36,5 @@ next-env.d.ts
 
 .vercel
 
-# tradingview bundles
-/public/tradingview/charting_library/bundles
-
 # macOS
 .DS_Store
