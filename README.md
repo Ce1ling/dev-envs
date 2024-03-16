@@ -8,6 +8,6 @@
 
 - `.prettierrc`
 
-## Bash
+## Shell
 
 - `.zshrc`
