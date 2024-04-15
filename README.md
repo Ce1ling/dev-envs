@@ -1,13 +1,14 @@
-# My Develop Envs
+# My development envs
 
 ## Git
 
 - `.gitignore`
 
-## Prettier
+## Frontend format
 
 - `.prettierrc`
 
-## Shell
+## Terminal
 
-- `.zshrc`
+- `.zshrc`(for macOS or Linux)
+- `powershell.ps1`(for Windows)
