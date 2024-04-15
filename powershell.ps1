@@ -1,8 +1,8 @@
-function ga  {
+function ga {
   git add $args
 }
 
-function gc  {
+function gc {
   git commit -m $args
 }
 
@@ -11,27 +11,27 @@ function gac {
   git commit -m $args
 }
 
-function gamend  {
+function gamend {
   git commit --amend --no-edit
 }
 
-function gamendm  {
+function gamendm {
   git commit --amend -m $args
 }
 
-function grl  {
+function grl {
   git reflog $args
 }
 
-function gl  {
+function gl {
   git log $args
 }
 
-function gps  {
+function gpsh {
   git push origin $args
 }
 
-function gpl  {
+function gpl {
   git pull origin $args
 }
 
@@ -54,3 +54,12 @@ function gm {
 function gb {
   git branch $args
 }
+
+function gf {
+  git fetch $args
+}
+
+function gss {
+  git stash $args
+}
+
