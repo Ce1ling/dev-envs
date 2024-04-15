@@ -1,3 +1,7 @@
+function c {
+  cls
+}
+
 function ga {
   git add $args
 }
